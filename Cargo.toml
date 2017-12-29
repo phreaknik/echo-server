@@ -1,0 +1,12 @@
+[package]
+authors = ["John Boyd <johnboydiv@gmail.com>"]
+name = "echo-server"
+version = "0.1.0"
+
+[dependencies]
+bytes = "0.4.5"
+futures = "0.1.17"
+tokio-core = "0.1.11"
+tokio-io = "0.1.4"
+tokio-proto = "0.1.1"
+tokio-service = "0.1.0"
